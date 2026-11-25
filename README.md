@@ -1,6 +1,7 @@
 # BI — Onboarding Funnel
 
 > **Projet personnel — données fictives.** Tous les chiffres du dashboard sont synthétiques et embarqués dans la page.
+> **© 2026 Hamza Dziri — Tous droits réservés.** Projet personnel publié à titre de démonstration ; toute reproduction ou réutilisation, totale ou partielle, sans autorisation écrite préalable de l'auteur est interdite.
 
 ## Objectif
 
